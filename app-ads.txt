@@ -1,1 +1,99 @@
+#Updated 31.03.2026
+#Appodeal
+appodeal.com, 265455, DIRECT
+#BidMachine
+bidmachine.io,1,DIRECT
+bidmachine.io,466,DIRECT
+#AdMob
 google.com, pub-1631773372582425, DIRECT, f08c47fec0942fa0
+#Resellers
+152media.info, 152M312, RESELLER
+152media.info, 152M499, RESELLER
+152media.info,152M1093,RESELLER
+152media.info,152M1133,RESELLER
+152media.info,152M1134,RESELLER
+152media.info,152M698,RESELLER
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+33across.com,0010b00002dVKxbAAG,RESELLER,bbea06d9c4d2853c
+33across.com,0010b00002MptSLAAZ,RESELLER,bbea06d9c4d2853c
+33across.com,0010b00002Xbn7QAAR,RESELLER,bbea06d9c4d2853c
+33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
+33across.com,0015a00003DKg9ZAAT,RESELLER,bbea06d9c4d2853c
+33across.com,001Pg000017QEh7IAG,RESELLER,bbea06d9c4d2853c
+33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
+33across.com,001Pg000019IbWWIA0,RESELLER,bbea06d9c4d2853c
+33across.com,001Pg00001BT7yYIAT,RESELLER,bbea06d9c4d2853c
+33across.com,001Pg00001EvjctIAB,RESELLER,bbea06d9c4d2853c
+9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+adcolony.com, 382d79cd1387e603, RESELLER, 1ad675c9de6b5176
+adcolony.com, 7d04a18a58085918, RESELLER, 1ad675c9de6b5176
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
+adform.com, 1985, RESELLER, 9f5210a2f0999e32
+appnexus.com, 11236, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1354, RESELLER
+aps.amazon.com,1ebcb2cb-e55f-4c08-94a0-e79fe207a5b6,RESELLER
+applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
+applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
+bidmachine.io, 113, RESELLER
+bidmachine.io, 200, DIRECT
+bigo.sg, 109, RESELLER
+chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
+chartboost.com,5d55f702facb6743686c50cc,RESELLER
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100081, RESELLER, 03113cd04947736d
+criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
+digitalturbine.com,221376,RESELLER
+fyber.com,221376,RESELLER,1ad675c9de6b5176
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+gumgum.com, 15747, RESELLER, ffdef49475d318a9
+improvedigital.com, 1234, DIRECT
+indexexchange.com, 182257, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+ironsrc.com, 220701, RESELLER
+ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
+kidoz.net, 14260, RESELLER, a109366414b7335e
+liftoff.io, 7f6945815e6, RESELLER
+lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
+loopme.com, 10178, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CU12AQ1Y, RESELLER
+mgid.com, 528163, RESELLER, d4c29acad76ce94f
+mintegral.com, 10046, RESELLER, 0aeed750c80d6423
+mintegral.com, 11154, RESELLER, 0aeed750c80d6423
+mobilefuse.com, 3719, RESELLER, 71e88b065d69c021
+nobid.io, 22388449880, RESELLER
+openx.com, 537045659, RESELLER, 6a698e2ec38604c6
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
+pangleglobal.com, 45779, RESELLER
+pangleglobal.com, 5026198, RESELLER
+pangleglobal.com, 82832, RESELLER
+pangleglobal.com,67894,RESELLER
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+richaudience.com, 9komJKwMhZ, RESELLER
+rubiconproject.com, 11398, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3056, RESELLER, 060d053dcf45cbf3
+sonobi.com, 4980f2fde3, RESELLER, d1a215d9eb5aee9e
+sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
+start.io, 116712987, RESELLER
+startapp.com, ope, RESELLER
+taurusx.com, 80029, RESELLER
+themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
+tpmn.io, 415, RESELLER
+triplelift.com, 11000, RESELLER, 6c33edb13117fd86
+unity.com,1004715,RESELLER,96cabb5fbdde37a7
+unrulymedia.com, 476748946, RESELLER
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+vungle.com,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
+xandr.com, 12745, RESELLER, f5ab79cb980f11d1
+yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
+yandex.com, 302446435, DIRECT
+yeahmobi.com, 104752, RESELLER
+zmaticoo.com, 115446, RESELLER
