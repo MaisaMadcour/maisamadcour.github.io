@@ -3,6 +3,8 @@
 unity.com, 148801462, DIRECT, 96cabb5fbdde37a7
 #InMobi
 inmobi.com, 9dac2318c5a04c59af6d90b9ab90e782, DIRECT, 83e75a7ae333ca9d
+#Liftoff Monetize (Vungle)
+vungle.com, 6aedec88008cfe5bdcf08adf, DIRECT, c107d686becd2d77
 
 #Unity LevelPlay (Unity Ads) - from the Unity dashboard, 2026-10-18
 smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
